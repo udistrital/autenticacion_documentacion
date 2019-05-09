@@ -5,4 +5,4 @@ Repositorio para contener la documentación y diseños relacionados con los sist
 
 ## Infraestructura
 
-(/diagramas/tecnologia.png)
+![Diagrama](/diagramas/tecnologia.png)
