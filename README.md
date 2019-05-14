@@ -7,6 +7,6 @@ Repositorio para contener la documentación y diseños relacionados con los sist
 
 ![Diagrama](/diagramas/tecnologia.png)
 
-##Componentes
+## Componentes
 
-![Diagrama](/diagramas/ComponentesAU.png)
+![Diagrama](/diagramas/componentesAU.png)
