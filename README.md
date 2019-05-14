@@ -6,3 +6,7 @@ Repositorio para contener la documentación y diseños relacionados con los sist
 ## Infraestructura
 
 ![Diagrama](/diagramas/tecnologia.png)
+
+##Componentes
+
+![Diagrama](/diagramas/ComponentesAU.png)
